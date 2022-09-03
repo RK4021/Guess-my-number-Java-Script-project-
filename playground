@@ -1,0 +1,24 @@
+<div class="hero-block">
+    <h1 class="heading">Guess My Number!</h1>
+    <div class="number__block"><span class="number">?</span></div>
+    <div class="number__display"></div>
+</div>
+
+<section class="input-block grid grid--1x2">
+
+    <div class="input__number__block">
+        <input type="number" class="input">
+        <div><button class="btn btn--white check">Check!</button></div>
+    </div>
+
+    <div class="score__board">
+
+        <div class="message">🤔Start guessing...</div>
+
+        <p>💯Score : <span class="score">20</span></p>
+        <p>🏅Highscore : <span class="high__score">0</span></p>
+
+    </div>
+
+
+</section>
